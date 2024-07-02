@@ -32,8 +32,6 @@ This webpage shows a sneak peek into the project I have developed and deployed, 
 
 - HTML
 - CSS
-- Javascript
-- Webpack
 
 ### Key Features <a name="key-features"></a>
 - **Users can add remove books from library**
@@ -96,9 +94,9 @@ You can deploy this project using:
 
 👤 **Killah**
 
-- GitHub: [BillybrightKillah](https://github.com/ngalamac)
-- LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
-
+- GitHub: [BillybrightKila](https://github.com/Billybrightkila)
+- LinkedIn: [Billybrightkila]
+(https://github.com/billybrightkila/billy-_portfolio-.git)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
